@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400..700&display=swap');
+body {
+    background-color: rgb(253, 239, 221);
+    color:rgb(49, 8, 8);
+    font-size: 16px;
+    font-weight: 100;
+    font-family: "Playwrite NZ Basic Guides", cursive;
+}
+h1 {
+    color: brown;
+}
+h2 {
+    font-size: 22px;
+}
+.кот {
+    width:350px;
+    border-radius: 50%;
+    box-shadow: 4px 4px 14px rgba(0, 0, 0, 25)
+}
+.инфо {
+    color: rgb(158, 87, 114);
+
+}
